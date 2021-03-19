@@ -111,7 +111,7 @@ with open('news.json', 'w', encoding='utf-8') as file:
     json.dump(combo_result, file, indent=2, ensure_ascii=False)
 
 
-# Сохраняем в БД из файла
+# Сохраняем в БД
 client = MongoClient('localhost', 27017)
 db = client['news']
 collection = db.news

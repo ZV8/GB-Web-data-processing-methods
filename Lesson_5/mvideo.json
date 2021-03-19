@@ -1,0 +1,178 @@
+[
+  {
+    "productPriceLocal": "6990.00",
+    "productId": "20064307",
+    "productName": "Мультиварка Redmond RMC-IHM303",
+    "productCategoryId": "cat2_cis_0000000284",
+    "productCategoryName": "Мультиварки",
+    "productVendorName": "Redmond",
+    "productGroupId": "cat1_cis_0000000003",
+    "Location": "block5260655",
+    "eventPosition": 9
+  },
+  {
+    "productPriceLocal": "73490.00",
+    "productId": "30052877",
+    "productName": "Смартфон Apple iPhone 12 mini 128GB (PRODUCT)RED (MGE53RU/A)",
+    "productCategoryId": "cat2_cis_0000000357",
+    "productCategoryName": "Смартфоны",
+    "productVendorName": "Apple",
+    "productGroupId": "cat1_cis_0000000012",
+    "Location": "block5260655",
+    "eventPosition": 1
+  },
+  {
+    "productPriceLocal": "12990.00",
+    "productId": "50141256",
+    "productName": "Наушники True Wireless Huawei Freebuds Pro угольный черный",
+    "productCategoryId": "cat2_cis_0000000728",
+    "productCategoryName": "Наушники",
+    "productVendorName": "Huawei",
+    "productGroupId": "cat1_cis_0000000155",
+    "Location": "block5260655",
+    "eventPosition": 2
+  },
+  {
+    "productPriceLocal": "17990.00",
+    "productId": "30046029",
+    "productName": "Смарт-часы Samsung Galaxy Watch Active2 SM-R830 Ваниль",
+    "productCategoryId": "cat2_cis_0000000572",
+    "productCategoryName": "Смарт-часы",
+    "productVendorName": "Samsung",
+    "productGroupId": "cat1_cis_0000000165",
+    "Location": "block5260655",
+    "eventPosition": 3
+  },
+  {
+    "productPriceLocal": "42990.00",
+    "productId": "10024453",
+    "productName": "Телевизор Philips 50PUS8505",
+    "productCategoryId": "cat2_cis_0000000001",
+    "productCategoryName": "Телевизоры",
+    "productVendorName": "Philips",
+    "productGroupId": "cat1_cis_0000000001",
+    "Location": "block5260655",
+    "eventPosition": 4
+  },
+  {
+    "productPriceLocal": "2490.00",
+    "productId": "20065314",
+    "productName": "Электрическая зубная щетка Braun ORAL-B Vitality D100.413.1 CrossAction 1+1",
+    "productCategoryId": "cat2_cis_0000000125",
+    "productCategoryName": "Зубные щетки",
+    "productVendorName": "Braun",
+    "productGroupId": "cat1_cis_0000000136",
+    "Location": "block5260655",
+    "eventPosition": 5
+  },
+  {
+    "productPriceLocal": "3990.00",
+    "productId": "20061816",
+    "productName": "Машинка для стрижки волос Rowenta Advancer TN5240F(0/1)",
+    "productCategoryId": "cat2_cis_0000000216",
+    "productCategoryName": "Машинки для стрижки волос",
+    "productVendorName": "Rowenta",
+    "productGroupId": "cat1_cis_0000000208",
+    "Location": "block5260655",
+    "eventPosition": 6
+  },
+  {
+    "productPriceLocal": "4290.00",
+    "productId": "20063875",
+    "productName": "Эпилятор Philips Satinelle Essential BRP529/00",
+    "productCategoryId": "cat2_cis_0000000124",
+    "productCategoryName": "Эпиляторы и аксессуары",
+    "productVendorName": "Philips",
+    "productGroupId": "cat1_cis_0000000102",
+    "Location": "block5260655",
+    "eventPosition": 7
+  },
+  {
+    "productPriceLocal": "2990.00",
+    "productId": "20064479",
+    "productName": "Фен Rowenta Compact Pro+ CV6930F0",
+    "productCategoryId": "cat2_cis_0000000757",
+    "productCategoryName": "Фены и фен-щетки",
+    "productVendorName": "Rowenta",
+    "productGroupId": "cat1_cis_0000000204",
+    "Location": "block5260655",
+    "eventPosition": 7
+  },
+  {
+    "productPriceLocal": "33990.00",
+    "productId": "20069366",
+    "productName": "Холодильник Haier CEF537AWG",
+    "productCategoryId": "cat2_cis_0000000240",
+    "productCategoryName": "Холодильники и морозильные камеры",
+    "productVendorName": "Haier",
+    "productGroupId": "cat1_cis_0000000189",
+    "Location": "block5260655",
+    "eventPosition": 8
+  },
+  {
+    "productPriceLocal": "6990.00",
+    "productId": "20041440",
+    "productName": "Кофемашина капсульного типа Nespresso Essenza Mini C30 Black",
+    "productCategoryId": "cat2_cis_0000000234",
+    "productCategoryName": "Кофемашины",
+    "productVendorName": "Nespresso",
+    "productGroupId": "cat1_cis_0000000120",
+    "Location": "block5260655",
+    "eventPosition": 9
+  },
+  {
+    "productPriceLocal": "2490.00",
+    "productId": "20043437",
+    "productName": "Электрочайник Redmond RK-M144",
+    "productCategoryId": "cat2_cis_0000000062",
+    "productCategoryName": "Электрочайники",
+    "productVendorName": "Redmond",
+    "productGroupId": "cat1_cis_0000000003",
+    "Location": "block5260655",
+    "eventPosition": 7
+  },
+  {
+    "productPriceLocal": "9490.00",
+    "productId": "20063304",
+    "productName": "Робот-пылесос Tefal Smart Force X-plorer RG6825WH",
+    "productCategoryId": "cat2_cis_0000000639",
+    "productCategoryName": "Пылесосы",
+    "productVendorName": "Tefal",
+    "productGroupId": "cat1_cis_0000000184",
+    "Location": "block5260655",
+    "eventPosition": 8
+  },
+  {
+    "productPriceLocal": "29990.00",
+    "productId": "20066831",
+    "productName": "Пылесос ручной (handstick) Samsung Jet 70 turbo VS15T7031R4",
+    "productCategoryId": "cat2_cis_0000000639",
+    "productCategoryName": "Пылесосы",
+    "productVendorName": "Samsung",
+    "productGroupId": "cat1_cis_0000000184",
+    "Location": "block5260655",
+    "eventPosition": 9
+  },
+  {
+    "productPriceLocal": "4990.00",
+    "productId": "20056195",
+    "productName": "Утюг Braun 4690-TS765EA",
+    "productCategoryId": "cat2_cis_0000000052",
+    "productCategoryName": "Утюги",
+    "productVendorName": "Braun",
+    "productGroupId": "cat1_cis_0000000002",
+    "Location": "block5260655",
+    "eventPosition": 7
+  },
+  {
+    "productPriceLocal": "2490.00",
+    "productId": "20053719",
+    "productName": "Погружной блендер Redmond RHB-2908",
+    "productCategoryId": "cat2_cis_0000000064",
+    "productCategoryName": "Миксеры и блендеры",
+    "productVendorName": "Redmond",
+    "productGroupId": "cat1_cis_0000000003",
+    "Location": "block5260655",
+    "eventPosition": 8
+  }
+]
