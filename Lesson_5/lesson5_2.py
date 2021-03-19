@@ -35,8 +35,9 @@ finally:
 try:
     with open('mvideo.json', 'w', encoding='utf-8') as file:
         json.dump(hits, file, indent=2, ensure_ascii=False)
-finally:
     print(f'Файл json сохранен')
+except:
+    print(f'Ошибка сохранения файла')
 
 
 # Сохраняем в БД
@@ -50,5 +51,6 @@ try:
             collection.insert_one(hit)
         except:
             print(f'Ошибка добавления в базу: {hit}')
-finally:
     print(f'Данные записаны в БД')
+except:
+    print(f'Ошибка записи в БД')

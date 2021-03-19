@@ -68,8 +68,9 @@ finally:
 try:
     with open('mail.json', 'w', encoding='utf-8') as file:
         json.dump(mails, file, indent=2, ensure_ascii=False)
-finally:
     print(f'Файл json сохранен')
+except:
+    print(f'Ошибка сохранения файла')
 
 
 # Сохраняем в БД
@@ -83,5 +84,6 @@ try:
             collection.insert_one(mail)
         except:
             print(f'Ошибка добавления в базу: {mail}')
-finally:
     print(f'Данные записаны в БД')
+except:
+    print(f'Ошибка записи в БД')
