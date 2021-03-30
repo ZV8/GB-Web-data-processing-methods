@@ -32,6 +32,7 @@ class LeroyruSpider(scrapy.Spider):
         loader.add_xpath('photos', "//img[contains(@alt, 'product')]/@src")
         loader.add_value('link', response.url)
 
+        # для динамически добавляемых полей (чтобы добавлять их отдельными столбцами в csv вместо единого столбца со словарем)
         card_prop_dt = response.xpath("//dt[@class='def-list__term']/text()").extract()
         card_prop_dd = response.xpath("//dd[@class='def-list__definition']/text()").extract()
         card_prop_dd = [d.replace('\n', '').strip() for d in card_prop_dd]
